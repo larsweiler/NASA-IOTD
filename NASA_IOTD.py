@@ -11,6 +11,7 @@
 # • http://stackoverflow.com/a/7406369
 #
 # Lars Weiler <lars@konvergenzfehler.de>
+# https://github.com/larsweiler/NASA-IOTD
 # CC0 2014-02-09
 
 
